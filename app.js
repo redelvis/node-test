@@ -1,1 +1,5 @@
-// there will be code even more
+
+// there will be code
+
+let const name = new type(arguments);
+
